@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@axframe/datagrid": "^0.1.10",
+    "@axframe/icon": "^0.1.6",
     "date-fns": "^2.29.3",
     "gray-matter": "^4.0.3",
     "next": "latest",
