@@ -9,6 +9,9 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle} - about</title>
       </Head>
       <h3>김정원</h3>
+      <h3>김정원</h3>
+      <h3>김정원</h3>
+      <h3>김정원</h3>
       <Link href={`/`}>장기영</Link>
     </Layout>
   )
